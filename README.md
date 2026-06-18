@@ -124,23 +124,6 @@ process_raw("input.CR3", "output.jpg")
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── Ex-2-Solution.ipynb
-├── README.md
-├── results/
-│   ├── demosaiced_image.jpg
-│   ├── gamma_corrected_image.jpg
-│   ├── simple_hdr.jpg
-│   ├── tone_mapped_image.jpg
-│   └── final_processed_image.jpg
-└── requirements.txt
-```
-
----
-
 ## What I Learned
 
 Through this project, I learned how raw camera images are formed and processed before becoming standard RGB images. I gained practical experience with Bayer filters, demosaicing, white balance, tone correction, HDR image formation, and tone mapping.
